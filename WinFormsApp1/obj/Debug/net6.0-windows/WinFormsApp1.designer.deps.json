@@ -1,0 +1,28 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "IS3.Unity.Webplayer/0.1.2": {
+        "runtime": {
+          "lib/net45/IS3.Unity.Webplayer.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "IS3.Unity.Webplayer/0.1.2": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-lyk2wCwgfEBbNaYx1WMbdwDeO3reYzdxjjHjxMO/RZTiyBFH6RRLM21PofbNB3KJy2enBVd9MB7hvHN7Klw4Ow==",
+      "path": "is3.unity.webplayer/0.1.2",
+      "hashPath": "is3.unity.webplayer.0.1.2.nupkg.sha512"
+    }
+  }
+}
